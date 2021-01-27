@@ -21,3 +21,9 @@ Next Go To The Releases Tab And Click On The App That Suits Your OS:
 
 
 .deb = Linux
+
+
+.apk = Android
+
+
+.ipa = iOS
